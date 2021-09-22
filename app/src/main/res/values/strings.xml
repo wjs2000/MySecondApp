@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MySecondApp</string>
+    <string name="edit_message">Please sign in</string>
+    <string name="transform">计算BMI值</string>
+    <string name="signIn">请输入身高(单位:M)</string>
+    <string name="signIn2">请输入体重(单位:Kg)</string>
+    <string name="defaultResult">BMI结果为:</string>
+    <string name="defaultResult2">您的健康状况为:</string>
+    <string name="defaultBallSubject">TeamA</string>
+    <string name="add3">加三分</string>
+    <string name="add2">加二分</string>
+    <string name="add1">加一分</string>
+    <string name="reset">reset</string>
+    <string name="defaultBallSubject2">TeamB</string>
+
+</resources>
