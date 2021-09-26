@@ -14,7 +14,7 @@
         android:ems="10"
         android:gravity="center"
         android:hint="@string/subjectHint"
-        android:inputType="textPersonName"
+        android:inputType="numberDecimal"
         android:minHeight="48dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -64,4 +64,5 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/first_btn_euro" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
