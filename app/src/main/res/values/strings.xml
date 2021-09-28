@@ -19,6 +19,12 @@
     <string name="DOLLAR">DOLLAR</string>
     <string name="EURO">EURO</string>
     <string name="WON">WON</string>
+    <string name="Dispacher">Dispacher</string>
     
+    <string name="save">SAVE</string>
+    <string name="menu_setting">setting</string>
+    <string name="menu_save">save</string>
+    <string name="menu_other1">menu_other1</string>
+
 
 </resources>
