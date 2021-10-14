@@ -3,10 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/enviorment/asProject/MySecondApp/app/src/main/res/layout-land/activity_ball2.xml" value="0.264" />
         <entry key="..\:/enviorment/asProject/MySecondApp/app/src/main/res/layout/activity_ball2.xml" value="0.264" />
         <entry key="..\:/enviorment/asProject/MySecondApp/app/src/main/res/layout/activity_first3.xml" value="0.536" />
         <entry key="..\:/enviorment/asProject/MySecondApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/enviorment/asProject/MySecondApp/app/src/main/res/layout/activity_my_list5.xml" value="0.1721014492753623" />
+        <entry key="..\:/enviorment/asProject/MySecondApp/app/src/main/res/layout/activity_rate_list.xml" value="0.1721014492753623" />
+        <entry key="..\:/enviorment/asProject/MySecondApp/app/src/main/res/layout/activity_rate_list2.xml" value="0.264" />
         <entry key="..\:/enviorment/asProject/MySecondApp/app/src/main/res/layout/activity_save4.xml" value="0.526080476900149" />
+        <entry key="..\:/enviorment/asProject/MySecondApp/app/src/main/res/layout/list_item.xml" value="0.4" />
         <entry key="..\:/enviorment/asProject/MySecondApp/app/src/main/res/menu/menu_first.xml" value="0.264" />
       </map>
     </option>

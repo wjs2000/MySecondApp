@@ -6,7 +6,7 @@
     <string name="signIn2">请输入体重(单位:Kg)</string>
     <string name="defaultResult">BMI结果为:</string>
     <string name="defaultResult2">您的健康状况为:</string>
-    
+
     <string name="defaultBallSubject">TeamA</string>
     <string name="defaultBallSubject2">TeamB</string>
     <string name="add3">加三分</string>
@@ -20,11 +20,13 @@
     <string name="EURO">EURO</string>
     <string name="WON">WON</string>
     <string name="Dispacher">Dispacher</string>
-    
+
     <string name="save">SAVE</string>
     <string name="menu_setting">setting</string>
     <string name="menu_save">save</string>
     <string name="menu_other1">menu_other1</string>
+    <string name="app_name1">Hello</string>
+    <string name="rate_list2_return">return</string>
 
 
 </resources>
